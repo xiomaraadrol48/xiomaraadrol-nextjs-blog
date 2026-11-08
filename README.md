@@ -1,0 +1,2 @@
+# xiomaraadrol-nextjs-blog
+personal notes and experiments
